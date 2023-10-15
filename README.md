@@ -78,4 +78,4 @@ $$
 P = \left | \langle \phi_0 | \phi(t) \rangle \right |^2,
 $$
 
-where $|\phi_0\rangle$ is the expected ground state, and $| \phi(t) \rangle $ is the wavefunction of the system at time $t$. 
+where $|\phi_0\rangle$ is the expected ground state, and $|\phi(t)\rangle$ is the wavefunction of the system at time $t$. 
